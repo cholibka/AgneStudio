@@ -1,9 +1,7 @@
 import { useState } from "react";
 import {
     Menu,
-    X,
     Phone,
-    Mail,
     Facebook,
     Instagram,
     Linkedin,
