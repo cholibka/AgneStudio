@@ -10,7 +10,7 @@ function App() {
             <Navbar />
             <BrowserRouter>
                 <Routes>
-                    <Route path="/" element={<Index />} />
+                    <Route path="/AgneStudio" element={<Index />} />
                     <Route path="*" element={<NotFound />} />
                 </Routes>
             </BrowserRouter>
